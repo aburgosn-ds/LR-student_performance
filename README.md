@@ -1,4 +1,4 @@
-# Data Science Project | EDA and Multiple Linear Regression
+# Data Science Mini-Project | EDA and Multiple Linear Regression
 
 This mini-proyect analyses and train a ML model on a dataset using python, performaning exploratory data analysis (EDA), visualizations, and data modeling applying multilple linear regression algorithm from sklearn and from an own implementation.
 
