@@ -20,11 +20,11 @@ import numpy as np
 
 def linear_model(X, w, b):
     '''
-    Computes the model for a training example
+    Computes the model for a set of training examples
 
     Args:
         X (ndarray): Shape (m,n) training examples with n features
-        w (ndarray): Shape (,n) n features weights
+        w (ndarray): Shape (n,) n features weights
         b (scalar): Bias parameter
     
     Returns:
