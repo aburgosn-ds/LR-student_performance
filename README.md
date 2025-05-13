@@ -1,6 +1,8 @@
 # Data Science Mini-Project | EDA and Multiple Linear Regression
 
-This mini-proyect analyses and train a ML model on a dataset using python, performaning exploratory data analysis (EDA), visualizations, and data modeling applying multilple linear regression algorithm from sklearn and from an own implementation.
+This mini-proyect analyses a students performance dataset and train a ML model to predict performance index of students using python, performaning exploratory data analysis (EDA) and data modeling. It was applied multiple linear regression algorithm using two implementations, one from sklearn and the other from an own implementation. The dataset consists on features that describes students such as sleep hours, hours studied, etc, and a column called performance index which we want to predict.
+
+With the help of EDA we could select the appropriate features to use to train the models. Two datasets were used to train each model, one with all features, and the other one applying feature selection. Both models showed nearly the same performance of 98% of R2 score. Finally, the models built using different implementations had the same high performance.
 
 ## Data
 **[data/Student_Performance.csv](data/Student_Performance.csv)**  
